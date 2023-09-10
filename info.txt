@@ -1,0 +1,11 @@
+// working   --------- staging  --------- local repo  =========> remote repo
+
+git init
+git status - show status of files being tracked and changes in file
+git add . / git add fileName
+git diff  fileName   difference between working and staging
+
+
+
+
+
