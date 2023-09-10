@@ -5,6 +5,28 @@ git status - show status of files being tracked and changes in file
 git add . / git add fileName
 git diff  fileName   difference between working and staging
 git commit -m "login feature"
+git branch -M main
+git remote add origin https://github.com/Minskoleopc/tixdo8.git
+git push -u origin main
+git log 
+git show HEAD
+
+// case 1 
+making working directory as local repo
+git checkout HEAD fileName
+// case 2 
+making staging as local repo 
+git reset HEAD fileName
+// case 3
+remove the commit 
+git reset 7sh
+
+
+// git branch 
+
+// git branch A 
+
+// git checkout  A
 
 
 
