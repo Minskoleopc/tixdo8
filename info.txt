@@ -21,12 +21,10 @@ git reset HEAD fileName
 remove the commit 
 git reset 7sh
 
-
 // git branch 
-
 // git branch A 
-
 // git checkout  A
+// git branch -d A
 
 
 
